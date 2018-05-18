@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CSCI235BotProgrammer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="modesSelectStartMode">Select initial Mode:</string>
+    <string name="modesNewMode">New</string>
+    <string name="modesCheckModesButton">Check Modes</string>
+    <string name="tablesSelectTableTextView">Select Table:</string>
+    <string name="tablesCreateNewTableButton">Create new row</string>
+    <string name="flagsFlagsTextView">Flags:</string>
+    <string name="flagsCreateNewFlagButton">Create new Flag</string>
+</resources>
